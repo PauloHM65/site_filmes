@@ -126,7 +126,7 @@ Com mais tempo, implementaria as seguintes melhorias:
 
 ### Quais ferramentas/aceleradores de desenvolvimento utilizou?
 O processo de desenvolvimento foi significativamente acelerado e assistido por:
-*   **Gemini (Modelo de IA do Google):** Utilizado para entender requisitos, gerar trechos de código, depurar, refatorar e explicar conceitos complexos.
+*   **Gemini (Modelo de IA do Google):** Utilizado para entender requisitos, gerar trechwos de código, depurar, refatorar e explicar conceitos complexos.
 *   **Angular CLI:** Para estruturar o projeto Angular, gerar componentes, serviços e gerenciar o processo de build.
 *   **Node.js/npm:** Para gerenciar dependências do backend e executar o servidor Express.
 *   **Visual Studio Code:** Como IDE principal, aproveitando suas extensões para desenvolvimento TypeScript, Angular e Node.js.
