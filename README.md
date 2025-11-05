@@ -1,3 +1,12 @@
+> ### Sobre este Projeto Interativo
+> 
+> Este repositório contém uma aplicação web completa para busca e avaliação de filmes, com um dashboard de estatísticas pessoais. O projeto foi desenvolvido de forma interativa e está pronto para ser executado, testado e modificado diretamente através de comandos.
+> 
+> *   **Tecnologias:** Angular (Frontend), Node.js/Express (Backend), Nginx e Docker Compose (Conteinerização).
+> *   **Como Interagir:** Você pode me dar instruções para continuar a desenvolver o projeto. Peça para `executar` testes, `editar` arquivos, `listar` o conteúdo de um diretório, ou qualquer outra tarefa de desenvolvimento.
+
+---
+
 # AppFilmes DTI - Desafio Full Stack
 
 Esta é uma aplicação web full stack que permite aos usuários buscar filmes, favoritar, criar avaliações e visualizar estatísticas sobre seus hábitos cinematográficos.
