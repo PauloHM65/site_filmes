@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   frontend:
-    image: paoluhm65/appfilmes_frontend:1.2
+    image: paoluhm65/app-filmes-frontend:latest
     ports:
       - "4200:80"
     container_name: appfilmes_frontend
@@ -10,7 +10,7 @@ services:
       - backend
 
   backend:
-    image: paoluhm65/appfilmes_backend:latest
+    image: paoluhm65/app-filmes-backend:latest
     ports:
       - "3000:3000"
     volumes:
