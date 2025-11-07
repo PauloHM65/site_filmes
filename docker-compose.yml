@@ -5,7 +5,7 @@ services:
     image: paoluhm65/app-filmes-frontend:latest
     ports:
       - "4200:80"
-    container_name: appfilmes_frontend
+    container_name: app-filmes-frontend
     restart: always
     depends_on:
       - backend
@@ -16,7 +16,7 @@ services:
       - "3000:3000"
     volumes:
       - ./backend/data:/app/data
-    container_name: appfilmes_backend
+    container_name: app-filmes-backend
     restart: always
     env_file:
       - .env
@@ -25,6 +25,6 @@ services:
     image: containrrr/watchtower
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
-    command: --interval 15 # Verifica por novas imagens a cada 60 segundos
+    command: --interval 15 # Verifica por novas imagens a cada 15 segundos
     restart: always
     container_name: watchtower
