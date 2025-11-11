@@ -1,129 +1,70 @@
 {
   "favorites": [
     {
-      "Title": "Jimmy Carr: His Dark Material",
-      "Year": "2021",
-      "Rated": "TV-MA",
-      "Released": "25 Dec 2021",
-      "Runtime": "59 min",
-      "Genre": "Comedy",
-      "Director": "Brian Klein, Amanda Baker",
-      "Writer": "Jimmy Carr",
-      "Actors": "Jimmy Carr",
-      "Plot": "Jimmy Carr finds humour in the darkest of places in this stand-up comedy special. This special features Jimmy's trademark dry, sardonic wit and includes some jokes which Jimmy calls \"career enders\".",
-      "Language": "English",
+      "Title": "Top Gear",
+      "Year": "2002–2022",
+      "Rated": "TV-PG",
+      "Released": "20 Oct 2002",
+      "Runtime": "1 min",
+      "Genre": "Adventure, Comedy, Sport",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jeremy Clarkson, Richard Hammond, James May",
+      "Plot": "The hosts talk about everything car-related. From new cars to how they're fueled, this show has it all.",
+      "Language": "English, Italian, German, Spanish, French",
       "Country": "United Kingdom",
-      "Awards": "N/A",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNTRmZTliZjEtZWNiYS00ODhiLThmZTQtMGNkOTJlODM2OWJkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Awards": "Nominated for 7 BAFTA 12 wins & 22 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTJlYmZjNDAtYjA2YS00YjAyLWI4NmYtYjFhNmM5MDEyMWJmXkEyXkFqcGc@._V1_SX300.jpg",
       "Ratings": [
         {
           "Source": "Internet Movie Database",
-          "Value": "7.1/10"
+          "Value": "8.7/10"
         }
       ],
       "Metascore": "N/A",
-      "imdbRating": "7.1",
-      "imdbVotes": "6,255",
-      "imdbID": "tt16259786",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
-      "Website": "N/A",
+      "imdbRating": "8.7",
+      "imdbVotes": "134,172",
+      "imdbID": "tt1628033",
+      "Type": "series",
+      "totalSeasons": "33",
       "Response": "True"
     },
     {
-      "Title": "The Intern",
-      "Year": "2015",
-      "Rated": "PG-13",
-      "Released": "25 Sep 2015",
-      "Runtime": "121 min",
-      "Genre": "Comedy, Drama",
-      "Director": "Nancy Meyers",
-      "Writer": "Nancy Meyers",
-      "Actors": "Robert De Niro, Anne Hathaway, Rene Russo",
-      "Plot": "Seventy-year-old widower Ben Whittaker has discovered that retirement isn't all it's cracked up to be. Seizing an opportunity to get back in the game, he becomes a senior intern at an online fashion site, founded and run by Jules ...",
-      "Language": "English, Japanese",
+      "Title": "Top Gun",
+      "Year": "1986",
+      "Rated": "PG",
+      "Released": "16 May 1986",
+      "Runtime": "110 min",
+      "Genre": "Action, Drama",
+      "Director": "Tony Scott",
+      "Writer": "Jim Cash, Jack Epps Jr., Ehud Yonay",
+      "Actors": "Tom Cruise, Tim Robbins, Kelly McGillis",
+      "Plot": "The Top Gun Naval Fighter Weapons School is where the best of the best train to refine their elite flying skills. When hotshot fighter pilot Maverick is sent to the school, his reckless attitude and cocky demeanor put him at odds ...",
+      "Language": "English",
       "Country": "United States",
-      "Awards": "1 win & 9 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyNjE5NjI5OF5BMl5BanBnXkFtZTgwNzYzMzU3NjE@._V1_SX300.jpg",
+      "Awards": "Won 1 Oscar. 11 wins & 9 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmVjNzQ3MjYtYTZiNC00Y2YzLWExZTEtMTM2ZDllNDI0MzgyXkEyXkFqcGc@._V1_SX300.jpg",
       "Ratings": [
         {
           "Source": "Internet Movie Database",
-          "Value": "7.1/10"
+          "Value": "7.0/10"
         },
         {
           "Source": "Rotten Tomatoes",
-          "Value": "60%"
+          "Value": "59%"
         },
         {
           "Source": "Metacritic",
-          "Value": "51/100"
+          "Value": "50/100"
         }
       ],
-      "Metascore": "51",
-      "imdbRating": "7.1",
-      "imdbVotes": "298,924",
-      "imdbID": "tt2361509",
+      "Metascore": "50",
+      "imdbRating": "7.0",
+      "imdbVotes": "538,178",
+      "imdbID": "tt0092099",
       "Type": "movie",
       "DVD": "N/A",
-      "BoxOffice": "$75,764,672",
-      "Production": "N/A",
-      "Website": "N/A",
-      "Response": "True"
-    },
-    {
-      "Title": "Halo",
-      "Year": "2022–2024",
-      "Rated": "TV-14",
-      "Released": "24 Mar 2022",
-      "Runtime": "N/A",
-      "Genre": "Action, Adventure, Sci-Fi",
-      "Director": "N/A",
-      "Writer": "Steven Kane, Kyle Killen",
-      "Actors": "Pablo Schreiber, Shabana Azmi, Natasha Culzac",
-      "Plot": "With the galaxy on the brink of destruction, Master Chief John-117 leads his team of Spartans against the alien threat known as the Covenant.",
-      "Language": "English",
-      "Country": "United States",
-      "Awards": "6 wins & 3 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYzNkODg3OTYtM2EyZC00NmEyLTgzZDktYjY5NGNjZmQ5ZDRiXkEyXkFqcGc@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "7.3/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "7.3",
-      "imdbVotes": "106,143",
-      "imdbID": "tt2934286",
-      "Type": "series",
-      "totalSeasons": "2",
-      "Response": "True"
-    },
-    {
-      "Title": "Phot",
-      "Year": "2011",
-      "Rated": "N/A",
-      "Released": "N/A",
-      "Runtime": "N/A",
-      "Genre": "N/A",
-      "Director": "N/A",
-      "Writer": "N/A",
-      "Actors": "N/A",
-      "Plot": "N/A",
-      "Language": "N/A",
-      "Country": "N/A",
-      "Awards": "N/A",
-      "Poster": "N/A",
-      "Ratings": [],
-      "Metascore": "N/A",
-      "imdbRating": "N/A",
-      "imdbVotes": "N/A",
-      "imdbID": "tt2282913",
-      "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
+      "BoxOffice": "$180,258,178",
       "Production": "N/A",
       "Website": "N/A",
       "Response": "True"
@@ -131,203 +72,51 @@
   ],
   "reviews": [
     {
-      "id": "1761764873907",
-      "imdbID": "tt16259786",
-      "rating": 1,
-      "comment": "rgfhf",
-      "date": "2025-10-29T19:41:27.162Z"
-    },
-    {
-      "id": "1761766908553",
-      "imdbID": "tt2282913",
-      "rating": 4,
-      "comment": "cvbcv",
-      "date": "2025-10-29T19:41:48.553Z"
-    },
-    {
-      "id": "1761766934544",
-      "imdbID": "tt2934286",
+      "id": "1762829874531",
+      "imdbID": "tt0092099",
       "rating": 3,
-      "comment": "fdg",
-      "date": "2025-10-29T19:42:14.544Z"
-    },
-    {
-      "id": "1761766954433",
-      "imdbID": "tt2361509",
-      "rating": 2,
-      "comment": "sdfsdf",
-      "date": "2025-10-29T19:42:34.433Z"
+      "comment": "dsf",
+      "date": "2025-11-11T02:57:54.531Z"
     }
   ],
   "history": [
     {
-      "term": "Matrix",
-      "date": "2025-10-29T18:07:07.616Z",
-      "results": 10
-    },
-    {
-      "term": "Matir",
-      "date": "2025-10-29T18:09:50.038Z",
-      "results": 10
-    },
-    {
-      "term": "inter",
-      "date": "2025-10-29T19:01:57.072Z",
-      "results": 10
-    },
-    {
-      "term": "int",
-      "date": "2025-10-29T19:02:02.205Z",
-      "results": 10
-    },
-    {
-      "term": "ther",
-      "date": "2025-10-29T19:02:04.640Z",
-      "results": 8
-    },
-    {
-      "term": "the in",
-      "date": "2025-10-29T19:02:11.087Z",
-      "results": 10
-    },
-    {
-      "term": "int",
-      "date": "2025-10-29T19:02:12.106Z",
-      "results": 10
-    },
-    {
-      "term": "inter",
-      "date": "2025-10-29T19:02:17.807Z",
-      "results": 10
-    },
-    {
-      "term": "intern",
-      "date": "2025-10-29T19:02:21.920Z",
-      "results": 10
-    },
-    {
-      "term": "the inter",
-      "date": "2025-10-29T19:06:25.220Z",
-      "results": 6
-    },
-    {
-      "term": "the intern",
-      "date": "2025-10-29T19:06:26.575Z",
-      "results": 10
-    },
-    {
-      "term": "the intern",
-      "date": "2025-10-29T19:07:15.618Z",
-      "results": 10
-    },
-    {
-      "term": "the inter",
-      "date": "2025-10-29T19:07:15.630Z",
-      "results": 6
-    },
-    {
-      "term": "carr",
-      "date": "2025-10-29T19:07:22.030Z",
-      "results": 10
-    },
-    {
-      "term": "halo",
-      "date": "2025-10-29T19:26:31.679Z",
-      "results": 10
-    },
-    {
-      "term": "phot",
-      "date": "2025-10-29T19:41:08.185Z",
-      "results": 1
-    },
-    {
-      "term": "the intern",
-      "date": "2025-10-29T19:48:18.188Z",
+      "term": "top ",
+      "date": "2025-11-11T02:57:27.714Z",
       "results": 10,
       "movieYears": [
-        "2015",
+        "2022",
+        "1986",
+        "1984",
+        "1987",
         "2003",
-        "2010",
-        "2006",
-        "2000"
+        "2014"
       ]
     },
     {
-      "term": "sas",
-      "date": "2025-10-29T19:49:04.403Z",
-      "results": 10,
-      "movieYears": [
-        "2021",
-        "1982",
-        "2017",
-        "1982",
-        "1995"
-      ]
-    },
-    {
-      "term": "asas",
-      "date": "2025-10-29T19:49:18.431Z",
-      "results": 10,
-      "movieYears": [
-        "2019",
-        "1963",
-        "1990",
-        "2008",
-        "1930",
-        "1937",
-        "2012",
-        "2012"
-      ]
-    },
-    {
-      "term": "gun",
-      "date": "2025-11-05T19:51:18.674Z",
+      "term": "top",
+      "date": "2025-11-11T02:57:36.699Z",
       "results": 10,
       "movieYears": [
         "2022",
         "1986",
-        "1988",
-        "1991",
-        "1994",
-        "1974",
-        "2025",
-        "2011",
-        "2018",
-        "2000"
-      ]
-    },
-    {
-      "term": "top gun",
-      "date": "2025-11-05T20:04:48.152Z",
-      "results": 10,
-      "movieYears": [
-        "2022",
-        "1986",
-        "1955",
+        "1984",
         "1987",
-        "2010",
-        "2004",
-        "2012",
-        "2022",
-        "1990",
-        "1996"
+        "2003",
+        "2014"
       ]
     },
     {
-      "term": "top gun",
-      "date": "2025-11-05T22:28:31.662Z",
+      "term": "top",
+      "date": "2025-11-11T02:57:48.900Z",
       "results": 10,
       "movieYears": [
         "2022",
         "1986",
-        "1955",
+        "1984",
         "1987",
-        "2010",
-        "2004",
-        "2012",
-        "2022",
-        "1990",
-        "1996"
+        "2003",
+        "2014"
       ]
     }
   ]
